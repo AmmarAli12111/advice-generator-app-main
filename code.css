@@ -39,6 +39,7 @@ body {
 }
 .box div:first-of-type .id {
   display: inline-block;
+  font-size: 15px;
 }
 .box q {
   text-align: center;
