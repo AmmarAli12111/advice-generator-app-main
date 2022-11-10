@@ -37,6 +37,9 @@ body {
   font-size: 13px;
   margin-bottom: 20px;
 }
+.box div:first-of-type .id {
+  display: inline-block;
+}
 .box q {
   text-align: center;
   font-size: 25px;
